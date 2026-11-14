@@ -1,7 +1,9 @@
 # Local macOS files
 .DS_Store
 
-# Typst sources and working materials stay local; publish finished PDFs.
-*.typ
-/figures/
+# Reference books stay local
 /materials/
+
+# Temporary single-lecture preview
+/lecture-preview.typ
+/lecture-preview.pdf
