@@ -1,0 +1,7 @@
+# Local macOS files
+.DS_Store
+
+# Typst sources and working materials stay local; publish finished PDFs.
+*.typ
+/figures/
+/materials/
