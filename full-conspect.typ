@@ -26,3 +26,4 @@
 #include "conspect-themes/conspect-themes-typst/lecture-9.typ"
 #include "conspect-themes/conspect-themes-typst/lecture-10.typ"
 #include "conspect-themes/conspect-themes-typst/lecture-11.typ"
+#include "conspect-themes/conspect-themes-typst/lecture-12.typ"

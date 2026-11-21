@@ -37,12 +37,28 @@
 
 - *READ UNCOMMITED* — позволяет читать даже незавершенные изменения других транзакций. (не используется в PostgreSQL)
 
+#align(center)[
+  #image("../../figures/read_uncommited.png", width: 80%)
+]
+
 - *READ COMMITED* (по умолчанию) — транзакция видит только зафиксированные
 (COMMIT) изменения других транзакций.
 
+#align(center)[
+  #image("../../figures/read_commited.png", width: 80%)
+]
+
 - *REPEATABLE READ* — транзакции видят данные в том виде, в каком они были на моменте её начала, даже если другие транзакции вносят изменения.
 
+#align(center)[
+  #image("../../figures/repeatable_read.png", width: 80%)
+]
+
 - *SERIALIZABLE* — максимальный уровень изоляции. Гарантирует, что параллельные транзакции выполняются так, как если бы они выполнялись последовательно.
+
+#align(center)[
+  #image("../../figures/serializable.png", width: 80%)
+]
 
 === Виды аномалий:
 
