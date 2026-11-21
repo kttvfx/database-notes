@@ -19,7 +19,7 @@
 | 09 | Выполнение запросов: статистика, сканирование, соединения и агрегация | [PDF](conspect-themes/conspect-themes-pdf/lecture-9.pdf) · [Typst](conspect-themes/conspect-themes-typst/lecture-9.typ) |
 | 10 | Безопасность: аутентификация, авторизация, роли и управление доступом | [PDF](conspect-themes/conspect-themes-pdf/lecture-10.pdf) · [Typst](conspect-themes/conspect-themes-typst/lecture-10.typ) |
 | 11 | Распределённые БД: RAID, репликация, шардирование, 2PC, CAP и PACELC | [PDF](conspect-themes/conspect-themes-pdf/lecture-11.pdf) · [Typst](conspect-themes/conspect-themes-typst/lecture-11.typ) |
-| 12 | База знаний: онтолоѓия, стандарты W3C, граф знаний, хранимые функции, процедуры, триггеры, представления | [PDF](conspect-themes/conspect-themes-pdf/lecture-11.pdf) · [Typst](conspect-themes/conspect-themes-typst/lecture-12.typ) |
+| 12 | База знаний: онтолоѓия, стандарты W3C, граф знаний, хранимые функции, процедуры, триггеры, представления | [PDF](conspect-themes/conspect-themes-pdf/lecture-12.pdf) · [Typst](conspect-themes/conspect-themes-typst/lecture-12.typ) |
 
 ## Источники и благодарности
 
